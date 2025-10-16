@@ -17,9 +17,7 @@
 
     <p align="center">
   🔗 <a href="https://zen-play.vercel.app" target="_blank"><b>View Live Demo</b></a>
-</p>
-
-</div>
+      </p>
 
 ## 📋 <a name="table">Table of Contents</a>
 
