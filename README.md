@@ -14,6 +14,11 @@
   <h3 align="center">ZenPlay - An Awwwards Winning Website</h3>
 
     This project, **Zenplay**, was developed by me with the help of a tutorial by JSMaastery and takes inspiration from the award-winning website **[Zentry](https://zentry.com/)**.
+
+    <p align="center">
+  🔗 <a href="https://zen-play.vercel.app" target="_blank"><b>View Live Demo</b></a>
+</p>
+
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
